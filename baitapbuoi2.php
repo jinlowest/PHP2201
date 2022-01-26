@@ -1,5 +1,7 @@
 
-<?php 
+<html>
+	<body>
+		<?php 
 	//Hinh 1:
 	for ($i=0; $i < 5; $i++) { 
 			echo "<br>";
@@ -67,13 +69,11 @@
 		echo "<br>";
 	}
 
-
-
-
-
-
-
  ?>
+	</body>
+</html>
+
+
 
 
 <!--  <?php echo date("D M d, Y G:i a"); ?> -->
